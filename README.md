@@ -1,1 +1,1 @@
-This Program mimics OES teacher commenents 
+This Program mimics the prestigous OES teacher commenents 
